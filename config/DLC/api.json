@@ -12,7 +12,7 @@
             "config":{
                 "host":"127.0.0.2:22",
                 "username":"root",
-                "password":"password123"
+                "password":"root"
             }
         },
         {
@@ -20,7 +20,7 @@
             "config":{
                 "host":"127.0.0.2:22",
                 "username":"root",
-                "password":"secret"
+                "password":"root"
             }
         }
     ]
